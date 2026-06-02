@@ -3,7 +3,7 @@ Dev-Tinder is a full-stack social networking application designed specifically f
 
 This repository contains the React.js Frontend, built for performance, scalability, and real-time interaction.
 
-🔗 **Live Demo: http://mypeg.in/ 🔗 **Backend Repo: https://github.com/Guheshp/backend-devTinder
+🔗 **Live Demo: http://mypeg.in/ 🔗 **Backend Repo: https://github.com/kiran-pujar2002/backend-devTinder
 
 🛠️ Tech Stack
 Core Framework & State
